@@ -32,7 +32,5 @@ Welcome to the **Quiz Management System** — a simple and effective web applica
 | HTML/CSS   | Frontend design     |
 | XAMPP      | Local server setup  |
 
----
 
-## 📁 Folder Structure
 
