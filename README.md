@@ -39,8 +39,8 @@ Welcome to the **Quiz Management System** — a simple and effective web applica
 | Title | Image |
 |-------|-------|
 | **1️⃣ Create and Manage Quiz Page** | ![](pic1.png) |
-| **2️⃣ Add a Question** | ![](screenshots/admin_add_question.png) |
-| **3️⃣ Manage Quiz (Update/Delete Questions)** | ![](screenshots/admin_manage_quiz.png) |
+| **2️⃣ Add a Question** | ![](pic2.png) |
+| **3️⃣ Manage Quiz (Update/Delete Questions)** | ![](pic3.png) |
 
 ---
 
@@ -48,12 +48,12 @@ Welcome to the **Quiz Management System** — a simple and effective web applica
 
 | Title | Image |
 |-------|-------|
-| **1️⃣ Registration Page** | ![](screenshots/student_register.png) |
-| **2️⃣ Login Page** | ![](screenshots/student_login.png) |
-| **3️⃣ Welcome Page** | ![](screenshots/student_welcome.png) |
-| **4️⃣ Quiz Questions Page** | ![](screenshots/student_quiz_questions.png) |
-| **5️⃣ Quiz Submission Page** | ![](screenshots/student_quiz_submit.png) |
-| **6️⃣ Result Page** | ![](screenshots/student_result.png) |
+| **1️⃣ Registration Page** | ![](pic5.png) |
+| **2️⃣ Login Page** | ![](pic6.png) |
+| **3️⃣ Welcome Page** | ![](pic7.png) |
+| **4️⃣ Quiz Questions Page** | ![](pic8.png) |
+| **5️⃣ Quiz Submission Page** | ![](pic9.png) |
+| **6️⃣ Result Page** | ![](pic10.png) |
 
 ---
 
