@@ -52,10 +52,4 @@ Welcome to the **Quiz Management System** — a simple and effective web applica
 | **2️⃣ Login Page** | ![](pic6.png) |
 | **3️⃣ Welcome Page** | ![](pic7.png) |
 | **4️⃣ Quiz Questions Page** | ![](pic8.png) |
-| **5️⃣ Quiz Submission Page** | ![](pic9.png) |
-| **6️⃣ Result Page** | ![](pic10.png) |
-
----
-
-
-
+| **5️⃣ Result Page** | ![](pic10.png) |
