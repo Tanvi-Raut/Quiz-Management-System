@@ -32,5 +32,30 @@ Welcome to the **Quiz Management System** — a simple and effective web applica
 | HTML/CSS   | Frontend design     |
 | XAMPP      | Local server setup  |
 
+## 📸 Screenshots
+
+### 🛠️ Admin Panel
+
+| Title | Image |
+|-------|-------|
+| **1️⃣ Create and Manage Quiz Page** | ![](screenshots/admin_create_manage_quiz.png) |
+| **2️⃣ Add a Question** | ![](screenshots/admin_add_question.png) |
+| **3️⃣ Manage Quiz (Update/Delete Questions)** | ![](screenshots/admin_manage_quiz.png) |
+
+---
+
+### 🎓 Student Panel
+
+| Title | Image |
+|-------|-------|
+| **1️⃣ Registration Page** | ![](screenshots/student_register.png) |
+| **2️⃣ Login Page** | ![](screenshots/student_login.png) |
+| **3️⃣ Welcome Page** | ![](screenshots/student_welcome.png) |
+| **4️⃣ Quiz Questions Page** | ![](screenshots/student_quiz_questions.png) |
+| **5️⃣ Quiz Submission Page** | ![](screenshots/student_quiz_submit.png) |
+| **6️⃣ Result Page** | ![](screenshots/student_result.png) |
+
+---
+
 
 
