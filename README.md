@@ -38,7 +38,7 @@ Welcome to the **Quiz Management System** — a simple and effective web applica
 
 | Title | Image |
 |-------|-------|
-| **1️⃣ Create and Manage Quiz Page** | ![](pic1.jpg) |
+| **1️⃣ Create and Manage Quiz Page** | ![](pic1.png) |
 | **2️⃣ Add a Question** | ![](screenshots/admin_add_question.png) |
 | **3️⃣ Manage Quiz (Update/Delete Questions)** | ![](screenshots/admin_manage_quiz.png) |
 
